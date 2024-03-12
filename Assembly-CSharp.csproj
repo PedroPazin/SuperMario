@@ -71,6 +71,7 @@
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\GameOver.cs" />
+    <Compile Include="Assets\Scripts\BlocoScore.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
